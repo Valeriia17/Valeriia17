@@ -1,0 +1,9 @@
+# Site settings
+theme: jekyll-theme-minimal
+classes: wide 
+layout: default
+title: Work Plans: Part 2
+logo: /assets/Home.png
+description: <h2><strong>Event Plan Part 2</strong></h2>
+             <p>Monday 10:00 - describtion</p>
+show_downloads: true
