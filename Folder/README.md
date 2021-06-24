@@ -1,8 +1,9 @@
 <html>
-<head>	
+<head>
+	<p>Folder</p>
 </head>
 	<body>
-		<h1> Work Plan 2020 </h1>
+		<h1> Different page:2 </h1>
 		<p><b>Projects</b></p> 
 	<ul>
 		<li> <a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></li>
