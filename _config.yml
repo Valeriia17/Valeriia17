@@ -1,0 +1,16 @@
+# Site settings
+theme: jekyll-theme-minimal
+classes: wide 
+layout: default
+title: Work Plans
+sidebar: true
+toc: true
+toc_label: "Table of Contents"
+logo: /assets/Home.png
+description: <h2><strong>Event Plan</strong></h2>
+             <p>Monday 10:00 - describtion</p>
+             <p>Tuesday 10:00 - describtion</p>
+             <p>Wednseday 10:00 - describtion</p>
+             <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a>
+show_downloads: false
+footer: false
