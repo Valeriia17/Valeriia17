@@ -2,7 +2,7 @@
 title:  "Posts"
 layout: archive
 permalink: /Posts/
-author_profile: true
+author_profile: false
 comments: true
 ---
 
