@@ -1,5 +1,12 @@
 # Site settings
 theme: jekyll-theme-minimal
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 title: Folder
 description: <h2><strong>Event Plan Part 2</strong></h2>
              <p>Different Schedule</p>  
