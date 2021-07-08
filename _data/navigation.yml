@@ -1,1 +1,24 @@
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+      
+      - title: "Structure"
+      
+      - title: "Installation"
+     
+      - title: "Upgrading"
+ 
 
+  - title: Customization
+    children:
+      - title: "Configuration"
+      
+      - title: "Navigation"
+   
+      - title: "UI Text"
+ 
+      - title: "Authors"
+  
+      - title: "Layouts"
