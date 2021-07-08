@@ -17,3 +17,4 @@ show_downloads: false
 #site-css:
 #  - "/assets/css/custom-styles.css"
 footer: false
+show_date: true
