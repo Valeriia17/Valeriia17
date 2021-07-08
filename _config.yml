@@ -2,6 +2,8 @@
 theme: jekyll-theme-minimal
 classes: wide 
 layout: default
+sidebar:
+  nav: "docs"
 title: Work Plans
 logo: /Folder/download (1).png
 show_date: true
@@ -13,15 +15,5 @@ description: <h2><strong>Event Plan</strong></h2>
              <p>Wednseday 10:00 - description</p>
              <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a>
 show_downloads: false
-# Navigation Menus
-header_navigation:
-  - title: Documentation
- 
 
-  - title: Themes
-  
-
-  - title: About
-
-  - title: Blog
   
