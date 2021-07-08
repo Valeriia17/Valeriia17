@@ -13,4 +13,7 @@ description: <h2><strong>Event Plan</strong></h2>
              <p>Wednseday 10:00 - description</p>
              <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a>
 show_downloads: false
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
 footer: false
