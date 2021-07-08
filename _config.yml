@@ -16,13 +16,12 @@ show_downloads: false
 # Navigation Menus
 header_navigation:
   - title: Documentation
-    url: /docs/
+ 
 
   - title: Themes
-    url: https://desiredpersona.com/themes/
+  
 
   - title: About
-    url: /about/
 
   - title: Blog
-    url: /archive/
+  
