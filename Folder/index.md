@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Page: Folder
+title: New Page Folder
 ---
 <html>
 <head>
