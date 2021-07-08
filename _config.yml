@@ -18,3 +18,4 @@ show_downloads: false
 #  - "/assets/css/custom-styles.css"
 show_date: true
 read_time: true
+search: true
