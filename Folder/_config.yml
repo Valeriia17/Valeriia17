@@ -1,0 +1,6 @@
+# Site settings
+theme: jekyll-theme-minimal
+title: Folder
+description: <h2><strong>Event Plan Part 2</strong></h2>
+             <p>Different Schedule</p>  
+show_downloads: false
